@@ -69,7 +69,8 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 5px;  
+    margin-bottom: 5px; 
+    padding: 5px; 
 }
 .main ul li:nth-child(odd){
     background-color: #C4FCF0;

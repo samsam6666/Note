@@ -151,7 +151,7 @@ a:hover{
     border-radius: 10px;
     
 }
-@media screen and (max-width:767px){
+@media screen and (max-width:768px){
     .header input{
         width: 80%;
     }

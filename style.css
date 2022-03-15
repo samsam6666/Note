@@ -95,7 +95,7 @@ body{
 }
 .main ul li span.delete:hover{
     color: #fff;
-    background-color: #00C9A8;
+    background-color: #dd0d0d;
 }
 .main ul li span.note{
     width: 400px;

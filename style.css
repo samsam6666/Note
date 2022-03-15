@@ -176,8 +176,8 @@ a:hover{
     }
     .container{
         width: 100%;
-        height: 100vh;
         justify-content: space-between;
+        max-height: 95vh;
     }
     
 
